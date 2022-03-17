@@ -1,5 +1,5 @@
 # soucenet-public
-A public version of the SouceNet project, a private network and website I made.
+A public version of the SouceNet project, a private network and website I made after hearing my teacher talk about networks one time.
 https://nogumart.github.io/SouceNet-public/
 
 # Story (copied from the Blog page)
