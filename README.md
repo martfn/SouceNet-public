@@ -1,6 +1,6 @@
 # soucenet-public
 A public version of the SouceNet project, a private network and website I made after hearing my teacher talk about networks one time.
-https://nogumart.github.io/SouceNet-public/
+https://martfn.github.io/SouceNet-public/
 
 # Story (copied from the Blog page)
  The SouceNet project began at the night of September 21st, 2021. It was created by mart, who decided to try creating some sort of network after hearing about it in school, he later assigned diog as the co-creator of SouceNet.
